@@ -1,0 +1,1 @@
+const navbar = true;s
